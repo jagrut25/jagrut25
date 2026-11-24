@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jagrut Patil 👋
 
-<!--
-**jagrut25/jagrut25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer & Full-Stack Software Developer** based in **Pune, Maharashtra, India**.  
+Computer Engineering Graduate (2026) • Microsoft Azure Fundamentals (**AZ-900**) Certified
 
-Here are some ideas to get you started:
+I build autonomous AI agents, multi-step LangGraph workflows, Retrieval-Augmented Generation (RAG) pipelines, and FastAPI backends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/jagrutpatil-dev) • [GitHub](https://github.com/jagrut25)
+
+---
+
+### 🚀 Featured Projects
+
+- **[Watchtower (`living-doc-agent`)](https://github.com/jagrut25/living-doc-agent)** — Autonomous documentation agent using **Python, FastAPI, LangGraph, and PyGithub** that listens to GitHub webhooks and automatically raises pull requests to keep repository docs updated.
+- **[Legalease AI](https://github.com/jagrut25)** — Legal document simplification and risk-highlighting web app built with **FastAPI, LangChain, RAG, and Google Cloud AI** (Gemini, Document AI, Natural Language API).
+- **[AI Conversion Rate Optimization (CRO) Agent](https://github.com/jagrut25)** — Automated webpage auditing agent combining **Playwright, FastAPI, Pydantic, and LangGraph** to analyze live web pages and generate actionable conversion insights.
+- **[Multimodal Diagnostic Report (DDR) Generator](https://github.com/jagrut25)** — Automated PDF inspection and thermal image analysis pipeline built with **LangGraph, Gemini, PyMuPDF, and Streamlit**.
+- **[YouTube Transcript RAG Extension](https://github.com/jagrut25)** — Chrome extension paired with a **Python, FAISS, LangChain, and Gemini** backend to query video transcripts interactively.
+- **[Cold Email Generator](https://github.com/jagrut25/project-cold-email-generation-genai)** — GenAI outreach tool built with **Streamlit and LangChain**.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, Core Java, JavaScript, HTML5, CSS3, SQL
+- **AI & Orchestration:** LangGraph, LangChain, FAISS, Gemini API, Groq, PyMuPDF
+- **Backend & Web:** FastAPI, Streamlit, React (Vite), Playwright
+- **Cloud & DevOps:** Microsoft Azure (AZ-900), Google Cloud AI, Git/GitHub Actions, Render, Vercel, Netlify
+
+---
+
+*Maintained by **Jagrut Patil** (`@jagrut25`) — Pune, India*
